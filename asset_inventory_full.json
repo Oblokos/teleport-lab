@@ -4,13 +4,13 @@
     "model:sketchfab": 100,
     "model:total": 104,
     "model:directupload": 4,
-    "image:directupload": 68,
-    "image:total": 420,
+    "image:directupload": 73,
+    "image:total": 425,
     "image:opensea": 352,
-    "document:directupload": 3,
-    "document:total": 3
+    "document:directupload": 4,
+    "document:total": 4
   },
-  "total": 527,
+  "total": 533,
   "assets": [
     {
       "assetType": "model",
@@ -3655,8 +3655,8 @@
       "mapped_file": "exit-signal.png",
       "transform": {
         "position": {
-          "x": -17.6328582763672,
-          "y": 7.09999990463257,
+          "x": -17.3199996948242,
+          "y": 7.19999980926514,
           "z": -2.39157819747925
         },
         "rotation": [
@@ -3666,9 +3666,159 @@
           -0.705725848674774
         ],
         "scale": {
-          "x": 1.20000004768372,
-          "y": 1.20000004768372,
-          "z": 1.20000004768372
+          "x": 2,
+          "y": 2,
+          "z": 2
+        }
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10031",
+      "provider": "directupload",
+      "url": "spatialcontent://directUpload:5534db80-110d-45b7-bdd3-2f6b2c9d2601",
+      "link": "",
+      "title": "Teleport Lab Anatomy Info",
+      "creator": "Oblokos",
+      "description": "license: Proprietary\nOriginal work / uploaded by artist",
+      "contentType": null,
+      "mapped_file": "teleport-lab-info-paper.png",
+      "transform": {
+        "position": {
+          "x": 34.3674278259277,
+          "y": -1.29999995231628,
+          "z": -16
+        },
+        "rotation": [
+          0,
+          -0.70538055896759,
+          0,
+          0.708828806877136
+        ],
+        "scale": {
+          "x": 3,
+          "y": 3,
+          "z": 3
+        }
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10032",
+      "provider": "directupload",
+      "url": "spatialcontent://directUpload:96cfaba0-f969-48e7-862a-a7e6203134b6",
+      "link": "",
+      "title": "Explore the complete Teleport Lab installation",
+      "creator": "Oblokos",
+      "description": "license: Proprietary\nOriginal work / uploaded by artist",
+      "contentType": null,
+      "mapped_file": "teleport-lab-map.png",
+      "transform": {
+        "position": {
+          "x": -15.1999998092651,
+          "y": 3,
+          "z": 0.639999985694885
+        },
+        "rotation": [
+          0,
+          0.999992787837982,
+          0,
+          0.00379793741740286
+        ],
+        "scale": {
+          "x": 3,
+          "y": 3,
+          "z": 3
+        }
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10035",
+      "provider": "directupload",
+      "url": "spatialcontent://directUpload:6dc63414-4c2e-44a9-8996-3c584c358945",
+      "link": "",
+      "title": "Explore the installation of NFT fragments - Orinoco",
+      "creator": "Oblokos",
+      "description": "Experience the artwork and documentation in the external viewer.\nlicense: Proprietary",
+      "contentType": null,
+      "mapped_file": "orinoco_explore_doc_png",
+      "transform": {
+        "position": {
+          "x": 4.08090543746948,
+          "y": 3,
+          "z": 11.8000001907349
+        },
+        "rotation": [
+          -0.000172633517649956,
+          0.71258807182312,
+          -0.000172633517649956,
+          -0.701582610607147
+        ],
+        "scale": {
+          "x": 3,
+          "y": 3,
+          "z": 3
+        }
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10037",
+      "provider": "directupload",
+      "url": "spatialcontent://directUpload:fdaef1d9-d5aa-4042-adaa-c8b38a48f8a5",
+      "link": "",
+      "title": "Explore the installation of NFT fragments - Rio Grande",
+      "creator": "Oblokos",
+      "description": "Experience the artwork and documentation in the external viewer.\nlicense: Proprietary",
+      "contentType": null,
+      "mapped_file": "rio_grande_explore_doc.png",
+      "transform": {
+        "position": {
+          "x": -4.07999992370605,
+          "y": 3,
+          "z": -16.8999996185303
+        },
+        "rotation": [
+          0,
+          0.702963709831238,
+          0,
+          0.711225748062134
+        ],
+        "scale": {
+          "x": 3,
+          "y": 3,
+          "z": 3
+        }
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10039",
+      "provider": "directupload",
+      "url": "spatialcontent://directUpload:c71c7ec7-fa91-4f9f-8240-aec10616cbbd",
+      "link": "",
+      "title": "Explore the installation of NFT fragments - Sena",
+      "creator": "Oblokos",
+      "description": "Experience the artwork and documentation in the external viewer.\nlicense: Proprietary",
+      "contentType": null,
+      "mapped_file": "sena_explore_doc.png",
+      "transform": {
+        "position": {
+          "x": -41.5,
+          "y": 1.79999995231628,
+          "z": -9.5
+        },
+        "rotation": [
+          -0.000345267035299912,
+          0.998122215270996,
+          -0.0611122660338879,
+          -0.00414320454001427
+        ],
+        "scale": {
+          "x": 3,
+          "y": 3,
+          "z": 3
         }
       }
     },
@@ -19608,7 +19758,7 @@
       "assetType": "document",
       "assetId": "10012",
       "provider": "directupload",
-      "url": "spatialcontent://directUpload:af140ed0-a032-4910-ab69-52734019375e",
+      "url": "spatialcontent://directUpload:a54ca44a-d207-4581-97e2-7afbb13c1423",
       "link": "",
       "title": "Teleport Lab Credits PDF",
       "creator": "Oblokos",
@@ -19685,7 +19835,37 @@
           0.0609396323561668,
           0.00379793741740286,
           -0.000345267035299912,
-          0.998134195804597
+          0.998134195804596
+        ],
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    },
+    {
+      "assetType": "document",
+      "assetId": "10033",
+      "provider": "directupload",
+      "url": "spatialcontent://directUpload:7432d8a6-37ec-4893-867d-5ff9279a377b",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": null,
+      "transform": {
+        "position": {
+          "x": -33.2999992370605,
+          "y": 1.60000002384186,
+          "z": -5.5
+        },
+        "rotation": [
+          0.0609396323561668,
+          -0.00379793741740286,
+          0,
+          0.998134255409241
         ],
         "scale": {
           "x": 1,

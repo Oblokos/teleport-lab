@@ -3742,7 +3742,7 @@
       "creator": "Oblokos",
       "description": "Experience the artwork and documentation in the external viewer.\nlicense: Proprietary",
       "contentType": null,
-      "mapped_file": "orinoco_explore_doc_png",
+      "mapped_file": "orinoco_explore_doc.png",
       "transform": {
         "position": {
           "x": 4.08090543746948,

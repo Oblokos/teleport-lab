@@ -71,7 +71,6 @@
     },
     {
       "id": "ERROR_EFS_SERVER_NOT_TRUSTED",
-      "role": "sample",
       "position": {
         "x": -8.0,
         "y": 2.5,
@@ -94,7 +93,6 @@
     },
     {
       "id": "ERROR_DATABASE_BACKUP_CORRUPT",
-      "role": "sample",
       "position": {
         "x": -8.0,
         "y": 2.5,
@@ -205,11 +203,10 @@
     },
     {
       "id": "ERROR_CLUSTER_CANNOT_RETURN_PROPERTIES",
-      "role": "sample",
       "position": {
-        "x": -7.999983,
+        "x": -8.0,
         "y": 2.5,
-        "z": -27.004316
+        "z": -27.0
       },
       "rotation": {
         "x": 0.0,
@@ -272,7 +269,6 @@
     },
     {
       "id": "ERROR_NO_EFS",
-      "role": "sample",
       "position": {
         "x": -8.0,
         "y": 4.0,
@@ -405,7 +401,6 @@
     },
     {
       "id": "ERROR_STACK_BUFFER_OVERRUN",
-      "role": "sample",
       "position": {
         "x": -8.0,
         "y": 5.5,
@@ -472,7 +467,6 @@
     },
     {
       "id": "ERROR_SECUREBOOT_FILE_REPLACED",
-      "role": "sample",
       "position": {
         "x": -8.0,
         "y": 4.0,
@@ -583,7 +577,6 @@
     },
     {
       "id": "ERROR_CLUSTER_NOT_INSTALLED",
-      "role": "sample",
       "position": {
         "x": -8.0,
         "y": 4.0,
@@ -606,7 +599,6 @@
     },
     {
       "id": "ERROR_CLUSTER_PARTIAL_SEND",
-      "role": "sample",
       "position": {
         "x": -8.116749,
         "y": 5.5,
@@ -629,7 +621,6 @@
     },
     {
       "id": "ERROR_LOG_BLOCK_INCOMPLETE",
-      "role": "sample",
       "position": {
         "x": -8.0,
         "y": 5.5,

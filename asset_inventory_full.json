@@ -1,16 +1,16 @@
 {
   "source": "polymerData-out.json",
   "counts": {
-    "model:sketchfab": 100,
-    "model:total": 104,
+    "model:sketchfab": 112,
+    "model:total": 116,
     "model:directupload": 4,
     "image:directupload": 73,
-    "image:total": 425,
-    "image:opensea": 352,
+    "image:total": 456,
+    "image:opensea": 383,
     "document:directupload": 4,
     "document:total": 4
   },
-  "total": 533,
+  "total": 576,
   "assets": [
     {
       "assetType": "model",
@@ -189,6 +189,366 @@
           "x": 12,
           "y": 12,
           "z": 12
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10042",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:263305543b8a438090bb308509db23d7",
+      "link": "https://sketchfab.com/3d-models/263305543b8a438090bb308509db23d7",
+      "title": "Stalked Jellyfish (Stauromedusae)",
+      "creator": "n-",
+      "description": "License: CC Attribution\n\n*",
+      "contentType": null,
+      "mapped_file": "stalked_jellyfish_stauromedusae.glb",
+      "transform": {
+        "position": {
+          "x": -13.0259637832642,
+          "y": -1.88786363601685,
+          "z": -42.8359413146973
+        },
+        "rotation": [
+          0,
+          -0.00293476972728968,
+          0,
+          0.999995708465576
+        ],
+        "scale": {
+          "x": 6,
+          "y": 12,
+          "z": 6
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10043",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:263305543b8a438090bb308509db23d7",
+      "link": "https://sketchfab.com/3d-models/263305543b8a438090bb308509db23d7",
+      "title": "Stalked Jellyfish (Stauromedusae)",
+      "creator": "n-",
+      "description": "License: CC Attribution\n\n*",
+      "contentType": null,
+      "mapped_file": "stalked_jellyfish_stauromedusae.glb",
+      "transform": {
+        "position": {
+          "x": -14.9300003051758,
+          "y": -1.95762276649475,
+          "z": -36.0400009155273
+        },
+        "rotation": [
+          0,
+          0.996415793895721,
+          0,
+          -0.084590420126915
+        ],
+        "scale": {
+          "x": 8,
+          "y": 16,
+          "z": 8
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10044",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:263305543b8a438090bb308509db23d7",
+      "link": "https://sketchfab.com/3d-models/263305543b8a438090bb308509db23d7",
+      "title": "Stalked Jellyfish (Stauromedusae)",
+      "creator": "n-",
+      "description": "License: CC Attribution\n\n*",
+      "contentType": null,
+      "mapped_file": "stalked_jellyfish_stauromedusae.glb",
+      "transform": {
+        "position": {
+          "x": -15.4499998092651,
+          "y": -1.88841545581818,
+          "z": -25.2199993133545
+        },
+        "rotation": [
+          0,
+          0.705035269260406,
+          0,
+          0.709172248840332
+        ],
+        "scale": {
+          "x": 10,
+          "y": 25,
+          "z": 10
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10045",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:263305543b8a438090bb308509db23d7",
+      "link": "https://sketchfab.com/3d-models/263305543b8a438090bb308509db23d7",
+      "title": "Stalked Jellyfish (Stauromedusae)",
+      "creator": "n-",
+      "description": "License: CC Attribution\n\n*",
+      "contentType": null,
+      "mapped_file": "stalked_jellyfish_stauromedusae.glb",
+      "transform": {
+        "position": {
+          "x": -14.4899997711182,
+          "y": -1.93996512889862,
+          "z": -57.189998626709
+        },
+        "rotation": [
+          0,
+          -0.00293476972728968,
+          0,
+          0.999995708465576
+        ],
+        "scale": {
+          "x": 6,
+          "y": 12,
+          "z": 6
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10046",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:263305543b8a438090bb308509db23d7",
+      "link": "https://sketchfab.com/3d-models/263305543b8a438090bb308509db23d7",
+      "title": "Stalked Jellyfish (Stauromedusae)",
+      "creator": "n-",
+      "description": "License: CC Attribution\n\n*",
+      "contentType": null,
+      "mapped_file": "stalked_jellyfish_stauromedusae.glb",
+      "transform": {
+        "position": {
+          "x": -14.3868560791016,
+          "y": -1.89247870445251,
+          "z": -57.1664276123047
+        },
+        "rotation": [
+          0,
+          -0.00293476972728968,
+          0,
+          0.999995708465576
+        ],
+        "scale": {
+          "x": 6,
+          "y": 20,
+          "z": 6
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10047",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:263305543b8a438090bb308509db23d7",
+      "link": "https://sketchfab.com/3d-models/263305543b8a438090bb308509db23d7",
+      "title": "Stalked Jellyfish (Stauromedusae)",
+      "creator": "n-",
+      "description": "License: CC Attribution\n\n*",
+      "contentType": null,
+      "mapped_file": "stalked_jellyfish_stauromedusae.glb",
+      "transform": {
+        "position": {
+          "x": -14.8500003814697,
+          "y": -1.88524794578552,
+          "z": -36.0699996948242
+        },
+        "rotation": [
+          0,
+          0.996415793895721,
+          0,
+          -0.084590420126915
+        ],
+        "scale": {
+          "x": 8,
+          "y": 24,
+          "z": 8
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10048",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:74ba317286d64a369f93e8abff162ab9",
+      "link": "https://sketchfab.com/3d-models/74ba317286d64a369f93e8abff162ab9",
+      "title": "Bubbles",
+      "creator": "House Doctor",
+      "description": "License: CC Attribution\n\nBubbles for inside a custom built fish tank.",
+      "contentType": null,
+      "mapped_file": "bubbles.glb",
+      "transform": {
+        "position": {
+          "x": 2.15000009536743,
+          "y": 5.06240653991699,
+          "z": -70.3819274902344
+        },
+        "rotation": [
+          -0.139487877488136,
+          0.718185722827911,
+          -0.117390789091587,
+          0.671544373035431
+        ],
+        "scale": {
+          "x": 9.15999984741211,
+          "y": 9.15999984741211,
+          "z": 9.15999984741211
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10049",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:263305543b8a438090bb308509db23d7",
+      "link": "https://sketchfab.com/3d-models/263305543b8a438090bb308509db23d7",
+      "title": "Stalked Jellyfish (Stauromedusae)",
+      "creator": "n-",
+      "description": "License: CC Attribution\n\n*",
+      "contentType": null,
+      "mapped_file": "stalked_jellyfish_stauromedusae.glb",
+      "transform": {
+        "position": {
+          "x": -15.4099998474121,
+          "y": -1.88135600090027,
+          "z": -24.9216842651367
+        },
+        "rotation": [
+          0,
+          0.705035269260406,
+          0,
+          0.709172248840332
+        ],
+        "scale": {
+          "x": 10,
+          "y": 15,
+          "z": 10
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10051",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:74ba317286d64a369f93e8abff162ab9",
+      "link": "https://sketchfab.com/3d-models/74ba317286d64a369f93e8abff162ab9",
+      "title": "Bubbles",
+      "creator": "House Doctor",
+      "description": "License: CC Attribution\n\nBubbles for inside a custom built fish tank.",
+      "contentType": null,
+      "mapped_file": "bubbles.glb",
+      "transform": {
+        "position": {
+          "x": -13,
+          "y": 3.47106075286865,
+          "z": -69.4958801269531
+        },
+        "rotation": [
+          -0.136380478739738,
+          0.735477983951569,
+          -0.121016092598438,
+          0.65255469083786
+        ],
+        "scale": {
+          "x": 9.15999984741211,
+          "y": 9.15999984741211,
+          "z": 9.15999984741211
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10053",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:263305543b8a438090bb308509db23d7",
+      "link": "https://sketchfab.com/3d-models/263305543b8a438090bb308509db23d7",
+      "title": "Stalked Jellyfish (Stauromedusae)",
+      "creator": "n-",
+      "description": "License: CC Attribution\n\n*",
+      "contentType": null,
+      "mapped_file": "stalked_jellyfish_stauromedusae.glb",
+      "transform": {
+        "position": {
+          "x": -24,
+          "y": -6,
+          "z": -24.5
+        },
+        "rotation": [
+          0,
+          0.708828806877136,
+          0,
+          -0.70538055896759
+        ],
+        "scale": {
+          "x": 10,
+          "y": 10,
+          "z": 10
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10054",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:263305543b8a438090bb308509db23d7",
+      "link": "https://sketchfab.com/3d-models/263305543b8a438090bb308509db23d7",
+      "title": "Stalked Jellyfish (Stauromedusae)",
+      "creator": "n-",
+      "description": "License: CC Attribution\n\n*",
+      "contentType": null,
+      "mapped_file": "stalked_jellyfish_stauromedusae.glb",
+      "transform": {
+        "position": {
+          "x": -24,
+          "y": 0,
+          "z": -24.5
+        },
+        "rotation": [
+          0,
+          0.708828806877136,
+          0,
+          -0.70538055896759
+        ],
+        "scale": {
+          "x": 12,
+          "y": 15,
+          "z": 12
+        }
+      }
+    },
+    {
+      "assetType": "model",
+      "assetId": "10055",
+      "provider": "sketchfab",
+      "url": "spatialcontent://sketchfab:263305543b8a438090bb308509db23d7",
+      "link": "https://sketchfab.com/3d-models/263305543b8a438090bb308509db23d7",
+      "title": "Stalked Jellyfish (Stauromedusae)",
+      "creator": "n-",
+      "description": "License: CC Attribution\n\n*",
+      "contentType": null,
+      "mapped_file": "stalked_jellyfish_stauromedusae.glb",
+      "transform": {
+        "position": {
+          "x": -24,
+          "y": 0,
+          "z": -24.5
+        },
+        "rotation": [
+          0,
+          0.708828806877136,
+          0,
+          -0.70538055896759
+        ],
+        "scale": {
+          "x": 10,
+          "y": 30,
+          "z": 10
         }
       }
     },
@@ -1555,9 +1915,9 @@
       "mapped_file": "flower_hat_jellyfish_limnomedusae.glb",
       "transform": {
         "position": {
-          "x": -16.8700008392334,
-          "y": 2,
-          "z": -29.8700008392334
+          "x": -32.1399993896484,
+          "y": 8.05018043518066,
+          "z": -29.7000007629395
         },
         "rotation": [
           0,
@@ -1705,8 +2065,8 @@
       "mapped_file": "yanix_jellyfish.glb",
       "transform": {
         "position": {
-          "x": -26.1667633056641,
-          "y": 9.11475467681885,
+          "x": -28.5100002288818,
+          "y": 3,
           "z": -23.2962703704834
         },
         "rotation": [
@@ -2846,7 +3206,7 @@
       "transform": {
         "position": {
           "x": 36.4244003295898,
-          "y": -2.70000004768372,
+          "y": -2.66000008583069,
           "z": -35.5561866760254
         },
         "rotation": [
@@ -2856,9 +3216,9 @@
           0.991694986820221
         ],
         "scale": {
-          "x": 3,
-          "y": 1.5,
-          "z": 3
+          "x": 4,
+          "y": 1,
+          "z": 4
         }
       }
     },
@@ -3764,6 +4124,36 @@
     },
     {
       "assetType": "image",
+      "assetId": "10036",
+      "provider": "directupload",
+      "url": "spatialcontent://directUpload:fcc1aa4b-9b35-465a-bad6-4646f8ac673b",
+      "link": "",
+      "title": "Chat with Teleport Lab",
+      "creator": "Oblokos",
+      "description": null,
+      "contentType": null,
+      "mapped_file": null,
+      "transform": {
+        "position": {
+          "x": -30.5,
+          "y": 1.5,
+          "z": -5.80000019073486
+        },
+        "rotation": [
+          0,
+          -0.00189896870870143,
+          0,
+          0.999998211860657
+        ],
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    },
+    {
+      "assetType": "image",
       "assetId": "10037",
       "provider": "directupload",
       "url": "spatialcontent://directUpload:fdaef1d9-d5aa-4042-adaa-c8b38a48f8a5",
@@ -3820,6 +4210,1277 @@
           "y": 3,
           "z": 3
         }
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10050",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxNDMyIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CLUSTER_GROUP_QUEUED.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 31.2000007629395
+        },
+        "rotation": [
+          0,
+          -0.16227550804615,
+          0,
+          0.986745476722717
+        ],
+        "scale": {
+          "x": 5,
+          "y": 3,
+          "z": 5
+        }
+      },
+      "nftMetadata": {
+        "description": "The requested operation can not be completed because the group is queued for an operation.",
+        "tokenID": "1432",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1432",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CLUSTER_GROUP_QUEUED"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10052",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiI3NzUifQ==",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CANNOT_IMPERSONATE.png",
+      "transform": {
+        "position": {
+          "x": -31,
+          "y": 2.5,
+          "z": -46
+        },
+        "rotation": [
+          0,
+          -0.70555317401886,
+          0,
+          0.708656966686249
+        ],
+        "scale": {
+          "x": 6,
+          "y": 4,
+          "z": 6
+        }
+      },
+      "nftMetadata": {
+        "description": "Unable to impersonate using a named pipe until data has been read from that pipe.",
+        "tokenID": "775",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/775",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CANNOT_IMPERSONATE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10056",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxNDMyIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CLUSTER_GROUP_QUEUED.png",
+      "transform": {
+        "position": {
+          "x": 0.0922372490167618,
+          "y": 1.5,
+          "z": 31.2000007629395
+        },
+        "rotation": [
+          0,
+          -0.16227550804615,
+          0,
+          0.986745476722717
+        ],
+        "scale": {
+          "x": 3.84999990463257,
+          "y": 2,
+          "z": 6
+        }
+      },
+      "nftMetadata": {
+        "description": "The requested operation can not be completed because the group is queued for an operation.",
+        "tokenID": "1432",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1432",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CLUSTER_GROUP_QUEUED"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10057",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMDc4In0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_PRINTER_DELETED.png",
+      "transform": {
+        "position": {
+          "x": 0.141264587640762,
+          "y": 1.5,
+          "z": 35.2999992370605
+        },
+        "rotation": [
+          0,
+          0.186789467930794,
+          0,
+          0.982399940490723
+        ],
+        "scale": {
+          "x": 2,
+          "y": 2,
+          "z": 2
+        }
+      },
+      "nftMetadata": {
+        "description": "The specified printer has been deleted.",
+        "tokenID": "1078",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1078",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_PRINTER_DELETED"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10058",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMDgwIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_PASSWORD_MUST_CHANGE.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 35.3992881774902
+        },
+        "rotation": [
+          0,
+          0.19455797970295,
+          0,
+          0.980891048908234
+        ],
+        "scale": {
+          "x": 2.09999990463257,
+          "y": 2.09999990463257,
+          "z": 2.09999990463257
+        }
+      },
+      "nftMetadata": {
+        "description": "The user's password must be changed before signing in.",
+        "tokenID": "1080",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1080",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_PASSWORD_MUST_CHANGE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10059",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMDgwIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_PASSWORD_MUST_CHANGE.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 35.4000015258789
+        },
+        "rotation": [
+          0,
+          0.19455797970295,
+          0,
+          0.980891048908234
+        ],
+        "scale": {
+          "x": 1.96000003814697,
+          "y": 1.96000003814697,
+          "z": 1.96000003814697
+        }
+      },
+      "nftMetadata": {
+        "description": "The user's password must be changed before signing in.",
+        "tokenID": "1080",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1080",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_PASSWORD_MUST_CHANGE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10060",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiI3NTYifQ==",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_BAD_TOKEN_TYPE.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 34.2999992370605
+        },
+        "rotation": [
+          0,
+          0.00345267029479146,
+          0,
+          0.999994039535522
+        ],
+        "scale": {
+          "x": 0.680000007152557,
+          "y": 0.680000007152557,
+          "z": 0.680000007152557
+        }
+      },
+      "nftMetadata": {
+        "description": "The type of the token is inappropriate for its attempted use.",
+        "tokenID": "756",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/756",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_BAD_TOKEN_TYPE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10061",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMDgwIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_PASSWORD_MUST_CHANGE.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 35
+        },
+        "rotation": [
+          0,
+          0.00379793741740286,
+          0,
+          0.999992787837982
+        ],
+        "scale": {
+          "x": 0.699999988079071,
+          "y": 0.699999988079071,
+          "z": 0.699999988079071
+        }
+      },
+      "nftMetadata": {
+        "description": "The user's password must be changed before signing in.",
+        "tokenID": "1080",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1080",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_PASSWORD_MUST_CHANGE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10062",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiI3NDIifQ==",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_LUIDS_EXHAUSTED.png",
+      "transform": {
+        "position": {
+          "x": -0.00999999977648258,
+          "y": 1.5,
+          "z": 33.4900016784668
+        },
+        "rotation": [
+          0,
+          0.194385334849358,
+          0,
+          0.980925261974335
+        ],
+        "scale": {
+          "x": 1.89999997615814,
+          "y": 1.89999997615814,
+          "z": 1.89999997615814
+        }
+      },
+      "nftMetadata": {
+        "description": "No more local user identifiers (LUIDs) are available.",
+        "tokenID": "742",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/742",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_LUIDS_EXHAUSTED"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10063",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMDgwIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_PASSWORD_MUST_CHANGE.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 34.9000015258789
+        },
+        "rotation": [
+          0,
+          0.00379793741740286,
+          0,
+          0.999992787837982
+        ],
+        "scale": {
+          "x": 0.5,
+          "y": 0.5,
+          "z": 0.5
+        }
+      },
+      "nftMetadata": {
+        "description": "The user's password must be changed before signing in.",
+        "tokenID": "1080",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1080",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_PASSWORD_MUST_CHANGE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10064",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMDgwIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_PASSWORD_MUST_CHANGE.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 34.9000015258789
+        },
+        "rotation": [
+          0,
+          0.00379793741740286,
+          0,
+          0.999992787837982
+        ],
+        "scale": {
+          "x": 0.419999986886978,
+          "y": 0.419999986886978,
+          "z": 0.419999986886978
+        }
+      },
+      "nftMetadata": {
+        "description": "The user's password must be changed before signing in.",
+        "tokenID": "1080",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1080",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_PASSWORD_MUST_CHANGE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10065",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMDgwIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_PASSWORD_MUST_CHANGE.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 35.5999984741211
+        },
+        "rotation": [
+          0,
+          0.00379793741740286,
+          0,
+          0.999992787837982
+        ],
+        "scale": {
+          "x": 0.699999988079071,
+          "y": 0.699999988079071,
+          "z": 0.699999988079071
+        }
+      },
+      "nftMetadata": {
+        "description": "The user's password must be changed before signing in.",
+        "tokenID": "1080",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1080",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_PASSWORD_MUST_CHANGE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10066",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMDgwIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_PASSWORD_MUST_CHANGE.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 35.7000007629395
+        },
+        "rotation": [
+          0,
+          0.00379793741740286,
+          0,
+          0.999992787837982
+        ],
+        "scale": {
+          "x": 0.5,
+          "y": 0.5,
+          "z": 0.5
+        }
+      },
+      "nftMetadata": {
+        "description": "The user's password must be changed before signing in.",
+        "tokenID": "1080",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1080",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_PASSWORD_MUST_CHANGE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10067",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxNTc1In0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CANT_CROSS_RM_BOUNDARY.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 43
+        },
+        "rotation": [
+          0,
+          0.0545521900057793,
+          0,
+          0.998510897159576
+        ],
+        "scale": {
+          "x": 10.2799997329712,
+          "y": 10.2799997329712,
+          "z": 10.2799997329712
+        }
+      },
+      "nftMetadata": {
+        "description": "The operation would involve a single file with two transactional resource managers and is therefore not allowed.",
+        "tokenID": "1575",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1575",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CANT_CROSS_RM_BOUNDARY"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10068",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxNTc1In0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CANT_CROSS_RM_BOUNDARY.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 45
+        },
+        "rotation": [
+          0,
+          0.098573736846447,
+          0,
+          0.995129764080048
+        ],
+        "scale": {
+          "x": 11.8900003433228,
+          "y": 11.8900003433228,
+          "z": 11.8900003433228
+        }
+      },
+      "nftMetadata": {
+        "description": "The operation would involve a single file with two transactional resource managers and is therefore not allowed.",
+        "tokenID": "1575",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1575",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CANT_CROSS_RM_BOUNDARY"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10069",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxNDIyIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CLUSTER_BACKUP_IN_PROGRESS.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 38
+        },
+        "rotation": [
+          0,
+          0.185235768556595,
+          0,
+          0.982694089412689
+        ],
+        "scale": {
+          "x": 3.98000001907349,
+          "y": 3.98000001907349,
+          "z": 3.98000001907349
+        }
+      },
+      "nftMetadata": {
+        "description": "Back up is in progress. Please wait for backup completion before trying this operation again.",
+        "tokenID": "1422",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1422",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CLUSTER_BACKUP_IN_PROGRESS"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10070",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxNDIyIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CLUSTER_BACKUP_IN_PROGRESS.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 38
+        },
+        "rotation": [
+          0,
+          0.185235768556595,
+          0,
+          0.982694089412689
+        ],
+        "scale": {
+          "x": 4.40000009536743,
+          "y": 4.40000009536743,
+          "z": 4.40000009536743
+        }
+      },
+      "nftMetadata": {
+        "description": "Back up is in progress. Please wait for backup completion before trying this operation again.",
+        "tokenID": "1422",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1422",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CLUSTER_BACKUP_IN_PROGRESS"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10071",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMzg2In0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CLUSTER_PARAMETER_OUT_OF_BOUNDS.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 40
+        },
+        "rotation": [
+          0,
+          0.386699080467224,
+          0,
+          0.922205924987793
+        ],
+        "scale": {
+          "x": 3,
+          "y": 3,
+          "z": 3
+        }
+      },
+      "nftMetadata": {
+        "description": "A parameter value is out of acceptable range.",
+        "tokenID": "1386",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1386",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CLUSTER_PARAMETER_OUT_OF_BOUNDS"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10072",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMzg2In0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CLUSTER_PARAMETER_OUT_OF_BOUNDS.png",
+      "transform": {
+        "position": {
+          "x": 0.0022899373434484,
+          "y": 1.5,
+          "z": 40.0044898986816
+        },
+        "rotation": [
+          0,
+          -0.378412663936615,
+          0,
+          0.925637006759644
+        ],
+        "scale": {
+          "x": 3,
+          "y": 3,
+          "z": 3
+        }
+      },
+      "nftMetadata": {
+        "description": "A parameter value is out of acceptable range.",
+        "tokenID": "1386",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1386",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CLUSTER_PARAMETER_OUT_OF_BOUNDS"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10073",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMzg2In0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CLUSTER_PARAMETER_OUT_OF_BOUNDS.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 40
+        },
+        "rotation": [
+          0,
+          -0.378412663936615,
+          0,
+          0.925637006759644
+        ],
+        "scale": {
+          "x": 2.51999998092651,
+          "y": 2.51999998092651,
+          "z": 2.51999998092651
+        }
+      },
+      "nftMetadata": {
+        "description": "A parameter value is out of acceptable range.",
+        "tokenID": "1386",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1386",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CLUSTER_PARAMETER_OUT_OF_BOUNDS"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10074",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxNTc1In0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CANT_CROSS_RM_BOUNDARY.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 43
+        },
+        "rotation": [
+          0,
+          0.0545521900057793,
+          0,
+          0.998510897159576
+        ],
+        "scale": {
+          "x": 8.27000045776367,
+          "y": 5.51999998092651,
+          "z": 11
+        }
+      },
+      "nftMetadata": {
+        "description": "The operation would involve a single file with two transactional resource managers and is therefore not allowed.",
+        "tokenID": "1575",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1575",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CANT_CROSS_RM_BOUNDARY"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10076",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxNTc1In0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CANT_CROSS_RM_BOUNDARY.png",
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 1.5,
+          "z": 41
+        },
+        "rotation": [
+          0,
+          0.0115664452314377,
+          0,
+          0.999933123588562
+        ],
+        "scale": {
+          "x": 7,
+          "y": 3.5,
+          "z": 7
+        }
+      },
+      "nftMetadata": {
+        "description": "The operation would involve a single file with two transactional resource managers and is therefore not allowed.",
+        "tokenID": "1575",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1575",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CANT_CROSS_RM_BOUNDARY"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10077",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiI3NzUifQ==",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CANNOT_IMPERSONATE.png",
+      "transform": {
+        "position": {
+          "x": -31,
+          "y": 2.5,
+          "z": -46
+        },
+        "rotation": [
+          0,
+          -0.70555317401886,
+          0,
+          0.708656966686249
+        ],
+        "scale": {
+          "x": 5.17000007629395,
+          "y": 5.17000007629395,
+          "z": 5.17000007629395
+        }
+      },
+      "nftMetadata": {
+        "description": "Unable to impersonate using a named pipe until data has been read from that pipe.",
+        "tokenID": "775",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/775",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CANNOT_IMPERSONATE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10078",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiI3NzUifQ==",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CANNOT_IMPERSONATE.png",
+      "transform": {
+        "position": {
+          "x": -31,
+          "y": 2.5,
+          "z": -46
+        },
+        "rotation": [
+          0,
+          -0.70555317401886,
+          0,
+          0.708656966686249
+        ],
+        "scale": {
+          "x": 4.03000020980835,
+          "y": 4.03000020980835,
+          "z": 4.03000020980835
+        }
+      },
+      "nftMetadata": {
+        "description": "Unable to impersonate using a named pipe until data has been read from that pipe.",
+        "tokenID": "775",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/775",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CANNOT_IMPERSONATE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10079",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiI3NzUifQ==",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CANNOT_IMPERSONATE.png",
+      "transform": {
+        "position": {
+          "x": -31,
+          "y": 2.5,
+          "z": -46
+        },
+        "rotation": [
+          0,
+          -0.70555317401886,
+          0,
+          0.708656966686249
+        ],
+        "scale": {
+          "x": 6.19999980926514,
+          "y": 4,
+          "z": 6.19999980926514
+        }
+      },
+      "nftMetadata": {
+        "description": "Unable to impersonate using a named pipe until data has been read from that pipe.",
+        "tokenID": "775",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/775",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CANNOT_IMPERSONATE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10080",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiI3NzUifQ==",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CANNOT_IMPERSONATE.png",
+      "transform": {
+        "position": {
+          "x": -31,
+          "y": 2.5,
+          "z": -46
+        },
+        "rotation": [
+          0,
+          0.00189896870870143,
+          0,
+          0.999998211860657
+        ],
+        "scale": {
+          "x": 6.19999980926514,
+          "y": 3,
+          "z": 6.19999980926514
+        }
+      },
+      "nftMetadata": {
+        "description": "Unable to impersonate using a named pipe until data has been read from that pipe.",
+        "tokenID": "775",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/775",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CANNOT_IMPERSONATE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10081",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMzI0In0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CLUSTER_NODE_DOWN.png",
+      "transform": {
+        "position": {
+          "x": -31,
+          "y": 2.5,
+          "z": -46
+        },
+        "rotation": [
+          0,
+          -0.384800106287003,
+          0,
+          0.922999918460846
+        ],
+        "scale": {
+          "x": 10.1999998092651,
+          "y": 5,
+          "z": 10.1999998092651
+        }
+      },
+      "nftMetadata": {
+        "description": "The cluster node is down.",
+        "tokenID": "1324",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1324",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CLUSTER_NODE_DOWN"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10082",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiI3NzUifQ==",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CANNOT_IMPERSONATE.png",
+      "transform": {
+        "position": {
+          "x": -31,
+          "y": 2.5,
+          "z": -46
+        },
+        "rotation": [
+          0,
+          0.00189896870870143,
+          0,
+          0.999998211860657
+        ],
+        "scale": {
+          "x": 6.19999980926514,
+          "y": 3,
+          "z": 6.19999980926514
+        }
+      },
+      "nftMetadata": {
+        "description": "Unable to impersonate using a named pipe until data has been read from that pipe.",
+        "tokenID": "775",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/775",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CANNOT_IMPERSONATE"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10083",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMzI0In0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CLUSTER_NODE_DOWN.png",
+      "transform": {
+        "position": {
+          "x": -31,
+          "y": 2.5,
+          "z": -46
+        },
+        "rotation": [
+          0,
+          -0.575042247772217,
+          0,
+          0.818123698234558
+        ],
+        "scale": {
+          "x": 8,
+          "y": 4,
+          "z": 8
+        }
+      },
+      "nftMetadata": {
+        "description": "The cluster node is down.",
+        "tokenID": "1324",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1324",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CLUSTER_NODE_DOWN"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10084",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxMzI0In0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_CLUSTER_NODE_DOWN.png",
+      "transform": {
+        "position": {
+          "x": -31,
+          "y": 2.5,
+          "z": -46
+        },
+        "rotation": [
+          0,
+          -0.575042247772217,
+          0,
+          0.818123698234558
+        ],
+        "scale": {
+          "x": 8.19999980926514,
+          "y": 6,
+          "z": 8.19999980926514
+        }
+      },
+      "nftMetadata": {
+        "description": "The cluster node is down.",
+        "tokenID": "1324",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1324",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_CLUSTER_NODE_DOWN"
+      }
+    },
+    {
+      "assetType": "image",
+      "assetId": "10085",
+      "provider": "opensea",
+      "url": "spatialcontent://opensea:6246f4fbad88eb8be55d2095:eyJjaGFpbl9pZGVudGlmaWVyIjoibWF0aWMiLCJjb250cmFjdF9hZGRyZXNzIjoiMHgyNTJmOTM5MGZlYjYzYWViMDAwNDJkZDVjNGZmODRhZjMzZjQyYjg1IiwidG9rZW5faWQiOiIxNDUyIn0=",
+      "link": "",
+      "title": null,
+      "creator": null,
+      "description": null,
+      "contentType": null,
+      "mapped_file": "ERROR_NO_USER_KEYS.png",
+      "transform": {
+        "position": {
+          "x": -32.5,
+          "y": 2.5,
+          "z": -44.5
+        },
+        "rotation": [
+          0,
+          -0.575387537479401,
+          0,
+          0.817880928516388
+        ],
+        "scale": {
+          "x": 4.19999980926514,
+          "y": 2,
+          "z": 4.19999980926514
+        }
+      },
+      "nftMetadata": {
+        "description": "There are no EFS keys defined for the user.",
+        "tokenID": "1452",
+        "externalLink": "https://opensea.io/assets/matic/0x252f9390feb63aeb00042dd5c4ff84af33f42b85/1452",
+        "marketplace": "OpenSea",
+        "nftPrice": {
+          "saleType": 2,
+          "currency": "ETH"
+        },
+        "filename": "ERROR_NO_USER_KEYS"
       }
     },
     {
@@ -8150,9 +9811,9 @@
       "mapped_file": "ERROR_CANT_CROSS_RM_BOUNDARY.png",
       "transform": {
         "position": {
-          "x": 0,
-          "y": 1.5,
-          "z": 41
+          "x": 3.49131223629229e-05,
+          "y": 1.50009405612946,
+          "z": 41.0000495910645
         },
         "rotation": [
           0,
@@ -8355,9 +10016,9 @@
       "mapped_file": "ERROR_CLUSTER_PARAMETER_OUT_OF_BOUNDS.png",
       "transform": {
         "position": {
-          "x": 0,
+          "x": -0.00284766778349876,
           "y": 1.5,
-          "z": 40
+          "z": 40.0001449584961
         },
         "rotation": [
           0,
@@ -9400,7 +11061,7 @@
         ],
         "scale": {
           "x": 8,
-          "y": 8,
+          "y": 7,
           "z": 8
         }
       },
@@ -9851,7 +11512,7 @@
         ],
         "scale": {
           "x": 10,
-          "y": 10,
+          "y": 8.39999961853027,
           "z": 10
         }
       },
@@ -16202,9 +17863,9 @@
       "mapped_file": "ERROR_NO_USER_KEYS.png",
       "transform": {
         "position": {
-          "x": -32.5019035339355,
-          "y": 2.49999403953552,
-          "z": -44.500301361084
+          "x": -32.502513885498,
+          "y": 2.50289869308472,
+          "z": -44.4993057250977
         },
         "rotation": [
           0,
@@ -17544,7 +19205,7 @@
       "mapped_file": "ERROR_CANNOT_IMPERSONATE.png",
       "transform": {
         "position": {
-          "x": -31.0000972747803,
+          "x": -31.0000114440918,
           "y": 2.5,
           "z": -46.0003852844238
         },
@@ -17555,9 +19216,9 @@
           0.999997854232788
         ],
         "scale": {
-          "x": 6,
-          "y": 6,
-          "z": 6
+          "x": 5.99999618530273,
+          "y": 3.40000009536743,
+          "z": 5.99999618530273
         }
       },
       "nftMetadata": {
@@ -17597,7 +19258,7 @@
         ],
         "scale": {
           "x": 6,
-          "y": 6,
+          "y": 3,
           "z": 6
         }
       },
@@ -19336,36 +20997,6 @@
     },
     {
       "assetType": "image",
-      "assetId": "-10507",
-      "provider": "directupload",
-      "url": "spatialcontent://directUpload:b06d0da8-71dc-4451-9608-0460d6b40c45",
-      "link": "",
-      "title": "Wall grid divider",
-      "creator": "Oblokos",
-      "description": "Plan for perspective and energy wall.\nlicense: Proprietary",
-      "contentType": null,
-      "mapped_file": "wall_grid_divider.png",
-      "transform": {
-        "position": {
-          "x": 0,
-          "y": 3.79999995231628,
-          "z": -66.8600006103516
-        },
-        "rotation": [
-          0,
-          -0.00103580113500357,
-          0,
-          0.999999463558197
-        ],
-        "scale": {
-          "x": 20,
-          "y": 20,
-          "z": 20
-        }
-      }
-    },
-    {
-      "assetType": "image",
       "assetId": "-10511",
       "provider": "directupload",
       "url": "spatialcontent://directUpload:be3e095e-a897-4b18-8eb7-7ee107c48713",
@@ -19758,7 +21389,7 @@
       "assetType": "document",
       "assetId": "10012",
       "provider": "directupload",
-      "url": "spatialcontent://directUpload:a54ca44a-d207-4581-97e2-7afbb13c1423",
+      "url": "spatialcontent://directUpload:590d6f4d-647d-4442-8399-1b7243eb2dfe",
       "link": "",
       "title": "Teleport Lab Credits PDF",
       "creator": "Oblokos",
@@ -19850,9 +21481,9 @@
       "provider": "directupload",
       "url": "spatialcontent://directUpload:7432d8a6-37ec-4893-867d-5ff9279a377b",
       "link": "",
-      "title": null,
-      "creator": null,
-      "description": null,
+      "title": "OBLOKOS - Whitepaper v2.0 (EN)",
+      "creator": "Oblokos",
+      "description": "OBLOKOS - Whitepaper v2.0\nlicense: Proprietary",
       "contentType": null,
       "mapped_file": null,
       "transform": {

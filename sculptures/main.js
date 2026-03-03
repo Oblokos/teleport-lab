@@ -4,6 +4,86 @@ const SCULPTURE_BASE_PATH = "data/";
 const THEME_STORAGE_KEY = "sculpture-ui-theme";
 const COPY_FEEDBACK_MS = 1200;
 const FALLBACK_SIZE = { w: 1, h: 1 };
+const VIEWER_CONFIG = {
+  // Spatial export appears mirrored in this viewer; keep this enabled.
+  mirrorXAxisOnImport: true
+};
+
+const tmpQuat = new THREE.Quaternion();
+
+function asNumber(value, fallback) {
+  const n = Number(value);
+  return Number.isFinite(n) ? n : fallback;
+}
+
+function getVector3(source, fallback) {
+  const ref = source || {};
+  return {
+    x: asNumber(ref.x, fallback.x),
+    y: asNumber(ref.y, fallback.y),
+    z: asNumber(ref.z, fallback.z)
+  };
+}
+
+function getQuaternion(source, targetQuaternion) {
+  const q = targetQuaternion || new THREE.Quaternion();
+  const r = source;
+
+  if (Array.isArray(r) && r.length === 4) {
+    q.set(
+      asNumber(r[0], 0),
+      asNumber(r[1], 0),
+      asNumber(r[2], 0),
+      asNumber(r[3], 1)
+    );
+    q.normalize();
+    return q;
+  }
+
+  if (r && typeof r === "object" && "x" in r && "y" in r && "z" in r && "w" in r) {
+    q.set(
+      asNumber(r.x, 0),
+      asNumber(r.y, 0),
+      asNumber(r.z, 0),
+      asNumber(r.w, 1)
+    );
+    q.normalize();
+    return q;
+  }
+
+  if (r && typeof r === "object") {
+    q.setFromEuler(
+      new THREE.Euler(
+        asNumber(r.x, 0),
+        asNumber(r.y, 0),
+        asNumber(r.z, 0)
+      )
+    );
+    return q;
+  }
+
+  q.identity();
+  return q;
+}
+
+function applyTransform(object3D, transform) {
+  const t = transform || {};
+  const p = getVector3(t.position, { x: 0, y: 0, z: 0 });
+  const s = getVector3(t.scale, { x: 1, y: 1, z: 1 });
+  const q = getQuaternion(t.rotation, tmpQuat);
+
+  if (VIEWER_CONFIG.mirrorXAxisOnImport) {
+    // Axis-conversion without matrix decomposition to avoid NaN with degenerate scales.
+    object3D.position.set(-p.x, p.y, p.z);
+    object3D.quaternion.set(q.x, -q.y, -q.z, q.w).normalize();
+    object3D.scale.set(s.x, s.y, s.z);
+    return;
+  }
+
+  object3D.position.set(p.x, p.y, p.z);
+  object3D.quaternion.copy(q);
+  object3D.scale.set(s.x, s.y, s.z);
+}
 
 function getQueryParam(name, fallback = null) {
   const params = new URLSearchParams(window.location.search);
@@ -429,6 +509,7 @@ async function main() {
     const geo = new THREE.PlaneBufferGeometry(FALLBACK_SIZE.w, FALLBACK_SIZE.h);
     let front;
     let back;
+    const holder = new THREE.Group();
 
     const mat = getMaterial(layer.id, (texture) => {
       if (!front || !back) return;
@@ -443,21 +524,11 @@ async function main() {
     back.rotation.y = Math.PI;
     back.scale.x = -1;
 
-    const p = layer.position ?? { x: 0, y: 0, z: 0 };
-    const r = layer.rotation ?? { x: 0, y: 0, z: 0 };
-    const s = layer.scale ?? { x: 1, y: 1, z: 1 };
+    holder.add(front);
+    holder.add(back);
+    applyTransform(holder, layer);
 
-    front.position.set(p.x, p.y, p.z);
-    front.rotation.set(r.x, r.y, r.z);
-    front.scale.set(s.x, s.y, s.z);
-
-    back.position.copy(front.position);
-    back.rotation.copy(front.rotation);
-    back.rotateY(Math.PI);
-    back.scale.copy(front.scale);
-
-    group.add(front);
-    group.add(back);
+    group.add(holder);
   }
 
   for (const layer of layers) makePlane(layer);
